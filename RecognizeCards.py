@@ -19,7 +19,7 @@ cv2.destroyAllWindows()
 
 
 print("Ivan")
-
+print("Super")
 # cap = cv2.VideoCapture(0)
 
 # while True:
