@@ -18,7 +18,7 @@ cv2.destroyAllWindows()
 
 
 
-
+print("Ivan")
 
 # cap = cv2.VideoCapture(0)
 
